@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		046BCD5725FA37B20087B713 /* wetharbuoten.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046BCD5625FA37B20087B713 /* wetharbuoten.swift */; };
+		046BCD5925FA39D10087B713 /* Cityname.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046BCD5825FA39D10087B713 /* Cityname.swift */; };
 		04DC8CAC25F6343B00E61876 /* iDineApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DC8CAB25F6343B00E61876 /* iDineApp.swift */; };
 		04DC8CAE25F6343B00E61876 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DC8CAD25F6343B00E61876 /* ContentView.swift */; };
 		04DC8CB025F6344000E61876 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04DC8CAF25F6344000E61876 /* Assets.xcassets */; };
@@ -33,6 +35,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		046BCD5625FA37B20087B713 /* wetharbuoten.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = wetharbuoten.swift; sourceTree = "<group>"; };
+		046BCD5825FA39D10087B713 /* Cityname.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cityname.swift; sourceTree = "<group>"; };
 		04DC8CA825F6343B00E61876 /* iDine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iDine.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04DC8CAB25F6343B00E61876 /* iDineApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iDineApp.swift; sourceTree = "<group>"; };
 		04DC8CAD25F6343B00E61876 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -100,6 +104,7 @@
 				04DC8CAF25F6344000E61876 /* Assets.xcassets */,
 				04DC8CB425F6344000E61876 /* Info.plist */,
 				04DC8CB125F6344000E61876 /* Preview Content */,
+				046BCD5625FA37B20087B713 /* wetharbuoten.swift */,
 			);
 			path = iDine;
 			sourceTree = "<group>";
@@ -108,6 +113,7 @@
 			isa = PBXGroup;
 			children = (
 				04DC8CB225F6344000E61876 /* Preview Assets.xcassets */,
+				046BCD5825FA39D10087B713 /* Cityname.swift */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -260,7 +266,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				04DC8CAE25F6343B00E61876 /* ContentView.swift in Sources */,
+				046BCD5725FA37B20087B713 /* wetharbuoten.swift in Sources */,
 				04DC8CAC25F6343B00E61876 /* iDineApp.swift in Sources */,
+				046BCD5925FA39D10087B713 /* Cityname.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
